@@ -5,8 +5,8 @@ connection and feeding repairing testing
 
 https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/_archive/apps  
 
-serach usb label, or direct link below,  
+serach usb label, or try direct link below,  
 
-https://github.com/GoogleChrome/chrome-extensions-samples/tree/master/apps/samples/usb-label-printer  
+https://chrome.google.com/webstore/detail/fgnncpfphbgfchijmoopegkdhihegfla  
 
-install this extension,  
+install this extension with chrome  
